@@ -50,6 +50,4 @@ Ports 22 and 9001 are available only inside each container. The PC exposes only 
 
 [Port scanning attack](successful-prompts/A1/) · [State changing attack](successful-prompts/A2/) · [Structured POST request](successful-prompts/A3/)
 
-These are existing screenshots of successful tool requests or replies with models in the current menu. They were captured in earlier deployments and do not, by themselves, verify outcomes on ports 8020 and 8021. The screenshots retain their original prompts and responses for inspection.
-
 See [DOCKER.md](DOCKER.md) for commands and container details.
